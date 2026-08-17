@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-q8ic9i.planetjp.online/sitemap.xml
